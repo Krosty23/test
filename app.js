@@ -1,7 +1,1 @@
-console(){
-    console(){
-        console(){
-            
-        }
-    }
-}
+alert("Hello! I am an alert box!!");
