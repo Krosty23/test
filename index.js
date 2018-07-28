@@ -1,4 +1,4 @@
-const matematicas = require ("./matematicas.js");
+const math = require ("./matematicas.js");
 
 console.log(math);
 /*console.log(matematicas.add(1, 2))
