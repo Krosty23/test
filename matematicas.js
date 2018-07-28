@@ -15,3 +15,6 @@ function divide(x1, x2){
     }
 }
 exports.add = add;
+exports.substract = substract;
+exports.multiply = multiply;
+exports.divide = divide;
