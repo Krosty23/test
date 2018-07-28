@@ -21,10 +21,5 @@ math.substract = substract;
 math.multiply = multiply;
 math.divide = divide;
 
-function hello(name){
-    console.log('hola ', name);
-}
 
 module.exports = math;
-
-module.exports = hello;
