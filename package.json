@@ -1,0 +1,23 @@
+{
+  "name": "web-proyect",
+  "version": "1.0.0",
+  "description": "crear maquetado web",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krosty23/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krosty23/test/issues"
+  },
+  "homepage": "https://github.com/Krosty23/test#readme"
+}
