@@ -13,5 +13,5 @@ function divide(x1, x2){
     }else{
         return x1 / x2;
     }
-    console.log(add(1, 2))
 }
+console.log(add(1, 2))
