@@ -20,3 +20,5 @@ math.add = add;
 math.substract = substract;
 math.multiply = multiply;
 math.divide = divide;
+
+module.exports = math;
